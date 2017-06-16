@@ -1,0 +1,44 @@
+@include respond-cozy {}
+@include respond-compact {
+    .promotion_01{
+        width:40%;
+
+    }
+    .promotion_02{
+        width: 60%;
+    }
+
+}
+@include respond-pad {
+    .solutions_order{
+        .oder_bg{
+            width: 30%;
+        }
+    }
+    .rss_font {
+    width: 60%;
+    margin-bottom: 10px;
+    }
+    .promotion_01{
+        width:100%;
+
+    }
+    .promotion_02{
+        width: 100%;
+    }
+}
+@include respond-mobile {
+    .solutions_order{
+        .oder_bg{
+            width: 100%;
+            margin-bottom: 20px;
+        }
+    }
+    .rss_font {
+    width:100%;
+    margin-bottom: 10px;
+    }
+    .new_issues{
+        display: none;
+    }
+}

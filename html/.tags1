@@ -1,0 +1,330 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+html	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^<html lang="en">$/;"	function	line:2
+head	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^<head>$/;"	function	line:4
+meta	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^    <meta charset="utf-8">$/;"	function	line:5
+meta	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^    <meta name="viewport" content="width=device-width, initial-scale=1">$/;"	function	line:6
+meta	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^    <meta http-equiv="X-UA-Compatible" content="IE=edge">$/;"	function	line:7
+link	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^    <link rel="stylesheet" href="..\/axiomtek\/css\/main.css">$/;"	function	line:8
+link	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^    <link rel="stylesheet" href="..\/axiomtek\/bower_components\/mdi\/css\/materialdesignicons.min.css">$/;"	function	line:9
+link	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^    <link href='https:\/\/fonts.googleapis.com\/css?family=Open Sans' rel='stylesheet' type='text\/css'>$/;"	function	line:10
+link	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^    <link href="..\/axiomtek\/dist\/css\/bootstrap.min.css" rel="stylesheet">$/;"	function	line:11
+script	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^    <script src="..\/axiomtek\/dist\/js\/bootstrap.min.js"><\/script>$/;"	function	line:12
+script	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^    <script src="..\/axiomtek\/dist\/js\/axiomtek.js"><\/script>$/;"	function	line:13
+title	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^    <title><\/title>$/;"	function	line:14
+body	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^<body class="page_bg">$/;"	function	line:17
+header	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^    <header class="fixed">$/;"	function	line:18
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^        <div class="search_bg">$/;"	function	line:19
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^            <div class="wrapper">$/;"	function	line:20
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                <div class="search_font">$/;"	function	line:21
+form	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                    <form class="search_box">$/;"	function	line:22
+input	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <input type="search" placeholder="Search">$/;"	function	line:23
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                    <div class="search_text"><a href="#">Inquiry<\/a><\/div>$/;"	function	line:25
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                    <div class="search_text"><a href="#">Compare<\/a><\/div>$/;"	function	line:26
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                    <div class="search_text"><a href="#">Home<\/a><\/div>$/;"	function	line:27
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^        <div class="wrapper">$/;"	function	line:31
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^            <div class="header_container">$/;"	function	line:32
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                <div class="logo">$/;"	function	line:33
+a	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                    <a href="#"><img src="..\/axiomtek\/images\/logo_a.png"><\/a>$/;"	function	line:34
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                <div class="hember"><img src="..\/axiomtek\/images\/menu.png"><\/div>$/;"	function	line:36
+nav	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                <nav>$/;"	function	line:37
+ul	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                    <ul class="top-menu" style=margin-bottom:0;>$/;"	function	line:38
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <li class="rd ax_red">Products<\/li>$/;"	function	line:39
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <li><a href="#">Solutions<\/a><\/li>$/;"	function	line:40
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <li><a href="#">Support<\/a><\/li>$/;"	function	line:41
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <li><a href="#">What's New<\/a><\/li>$/;"	function	line:42
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <li><a href="#">Resources<\/a><\/li>$/;"	function	line:43
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <li><a href="#">About Us<\/a><\/li>$/;"	function	line:44
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <li><a href="#">Contact Us<\/a><\/li>$/;"	function	line:45
+section	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^    <section>$/;"	function	line:53
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^        <div class="dark">$/;"	function	line:54
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^            <div class="wrapper">$/;"	function	line:55
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                <div class="dark_box">$/;"	function	line:56
+a	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                    <a href="#" class="product_sheet">Product<i class="mdi mdi-menu-down"><\/i><\/a>$/;"	function	line:57
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                    <div class="product_bread">$/;"	function	line:58
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <div class="to-crumbs">$/;"	function	line:59
+a	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <a href="#">HOME<\/a>&nbsp;\/&nbsp;$/;"	function	line:60
+a	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <a href="#">About Us<\/a>&nbsp;\/&nbsp;$/;"	function	line:61
+span	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <span class="current">Worldwide Offices<\/span>$/;"	function	line:62
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                    <div class="nav_fb">$/;"	function	line:65
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <div class="in_icon"><i class="mdi mdi-linkedin"><\/i><\/div>$/;"	function	line:66
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <div class="g_icon"><i class="mdi mdi-google-plus"><\/i><\/div>$/;"	function	line:67
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <div class="tr_icon"><i class="mdi mdi-twitter"><\/i><\/div>$/;"	function	line:68
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <div class="fb_icon"><i class="mdi mdi-facebook"><\/i><\/div>$/;"	function	line:69
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                    <div class="nav_icon">$/;"	function	line:71
+ul	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <ul>$/;"	function	line:72
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#"><i class="mdi mdi-magnify"><\/i><\/a><\/li>$/;"	function	line:73
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#"><i class="mdi mdi-download"><\/i><\/a><\/li>$/;"	function	line:74
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#"><i class="mdi mdi-account-multiple"><\/i><\/a><\/li>$/;"	function	line:75
+section	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^    <section>$/;"	function	line:84
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^            <div class="product_downmenu">$/;"	function	line:87
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                <div class="down_inside">$/;"	function	line:88
+ul	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                    <ul>$/;"	function	line:89
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <li class="title">ATX Motherboard<\/li>$/;"	function	line:90
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <li class="active_font">Mini ITX Motherboard<\/li>$/;"	function	line:91
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <li>Pico-ITX Embedded Board<\/li>$/;"	function	line:92
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <li>Nano-ITX Embedded Board<\/li>$/;"	function	line:93
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <li>3.5-inch Embedded Board<\/li>$/;"	function	line:94
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <li>Compact Embedded Board<\/li>$/;"	function	line:95
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <li>EPIC Embedded Board<\/li>$/;"	function	line:96
+ul	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                    <ul>$/;"	function	line:98
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <li class="title">PICMG Single Board Computer<\/li>$/;"	function	line:99
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <li>PICMG 1.3 Full-size SBC<\/li>$/;"	function	line:100
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <li>PICMG 1.3 Half-size SBC<\/li>$/;"	function	line:101
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <li>PICMG 1.0 Full-size SBC<\/li>$/;"	function	line:102
+ul	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                    <ul>$/;"	function	line:104
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <li class="title">RISC Embedded Board<\/li>$/;"	function	line:105
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <li>System on Module<\/li>$/;"	function	line:106
+ul	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                    <ul>$/;"	function	line:108
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <li class="title">System on Module<\/li>$/;"	function	line:109
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <li>COM Express Type 2<\/li>$/;"	function	line:110
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <li>COM Express Type 6<\/li>$/;"	function	line:111
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <li>COM Express Type 10<\/li>$/;"	function	line:112
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <li>ETX<\/li>$/;"	function	line:113
+ul	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                    <ul>$/;"	function	line:115
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <li class="title">Add-on-Card & Peripheral<\/li>$/;"	function	line:116
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <li>PoE Module<\/li>$/;"	function	line:117
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <li>ZIO Module<\/li>$/;"	function	line:118
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <li>I\/O Board<\/li>$/;"	function	line:119
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <li>MiniPCI Module<\/li>$/;"	function	line:120
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <li>PCI Express Mini Module<\/li>$/;"	function	line:121
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <li>LVDS Convert Modules<\/li>$/;"	function	line:122
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <li>Flash Storage Device<\/li>$/;"	function	line:123
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <li>Others<\/li>$/;"	function	line:124
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^        <div class="inside-container">$/;"	function	line:130
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^            <div class="font_article">$/;"	function	line:131
+h	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                <h1><strong>Solutions<\/strong><\/h1>$/;"	function	line:132
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                <div class="solutions_order">$/;"	function	line:134
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                    <div class="oder_bg">$/;"	function	line:135
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <div class="pic"><img src="..\/axiomtek\/images\/solution_p1.jpg"><\/div>$/;"	function	line:136
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <div class="renew_font">$/;"	function	line:137
+h	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <h3>Industrial Automation<\/h3>$/;"	function	line:138
+ul	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <ul class="solution_height">$/;"	function	line:139
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Industry 4.0- Smart Factory<\/li>$/;"	function	line:140
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Food Factory<\/li>$/;"	function	line:141
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Intelligent Automation Solutions<\/li>$/;"	function	line:142
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Intelligent Embedded Service Framework<\/li>$/;"	function	line:143
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>AOI with Fanless Embedded Ether<\/li>$/;"	function	line:144
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>AOI with Fanless Embedded EtherCAT Computer<\/li>$/;"	function	line:145
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Increased Holiday Demand with Reliable Factory Automation<\/li>$/;"	function	line:146
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Large Scale Lighting and HVAC Systems<\/li>$/;"	function	line:147
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Smart Street Lighting Control System<\/li>$/;"	function	line:148
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>HVAC System<\/li>$/;"	function	line:149
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Beverage Factory Automation<\/li>$/;"	function	line:150
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Continuous Belt-type Furnace<\/li>$/;"	function	line:151
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>CNC Machine<\/li>$/;"	function	line:152
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Building Automation<\/li>$/;"	function	line:153
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Automatic Optical Inspection<\/li>$/;"	function	line:154
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Embedded Industrial Controller<\/li>$/;"	function	line:155
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Electric Vehicle Charging System<\/li>$/;"	function	line:156
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Warehouse Automation<\/li>$/;"	function	line:157
+button	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <button type="button" class="btn btn-red">READ MORE<\/button>$/;"	function	line:159
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                    <div class="oder_bg">$/;"	function	line:162
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <div class="pic"><img src="..\/axiomtek\/images\/solution_p2.jpg"><\/div>$/;"	function	line:163
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <div class="renew_font">$/;"	function	line:164
+h	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <h3>Transportation<\/h3>$/;"	function	line:165
+ul	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <ul class="solution_height">$/;"	function	line:166
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>In-vehicle Camera Used by Law Enforcement<\/li>$/;"	function	line:167
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Intelligent Transportation System Solutions<\/li>$/;"	function	line:168
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Intelligent Transportation Surveillance System<\/li>$/;"	function	line:169
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Increased Passenger Safety<\/li>$/;"	function	line:170
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Transit Station<\/li>$/;"	function	line:171
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Intelligent Security Surveillance System in Railway<\/li>$/;"	function	line:172
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Fleet Management and Surveillance System in Vehicle<\/li>$/;"	function	line:173
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Vehicle-to-Vehicle Communication<\/li>$/;"	function	line:174
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Improved Surveillance Technology for Mass Transit<\/li>$/;"	function	line:175
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>e-Bus in ITS system<\/li>$/;"	function	line:176
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Railway Rolling Stock<\/li>$/;"	function	line:177
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Rail Rapid Transit<\/li>$/;"	function	line:178
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>In-vehicle PC<\/li>$/;"	function	line:179
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Traffic Control System<\/li>$/;"	function	line:180
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Vehicle Detection System<\/li>$/;"	function	line:181
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Fleet Management<\/li>$/;"	function	line:182
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Marine Logistics<\/li>$/;"	function	line:183
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Industrial-proven Transportation Solutions<\/li>$/;"	function	line:184
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Mobile Tactical Computer<\/li>$/;"	function	line:185
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Bus Ticket Machine<\/li>$/;"	function	line:186
+button	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <button type="button" class="btn btn-red">READ MORE<\/button>$/;"	function	line:188
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                    <div class="oder_bg">$/;"	function	line:191
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <div class="pic"><img src="..\/axiomtek\/images\/solution_p3.jpg"><\/div>$/;"	function	line:192
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <div class="renew_font">$/;"	function	line:193
+h	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <h3>Internet of Things (IoT)<\/h3>$/;"	function	line:194
+ul	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <ul class="solution_height">$/;"	function	line:195
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Smarter Cities with Smarter Infrastructures<\/li>$/;"	function	line:196
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Smart Factory<\/li>$/;"	function	line:197
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Industrial Internet of Things (IIoT)<\/li>$/;"	function	line:198
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Smart Machines<\/li>$/;"	function	line:199
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>IIoT Gateway Solution<\/li>$/;"	function	line:200
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Smart Homes and Buildings<\/li>$/;"	function	line:201
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Factory Automation & Smart Energy<\/li>$/;"	function	line:202
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Internet of Things<\/li>$/;"	function	line:203
+button	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <button type="button" class="btn btn-red">READ MORE<\/button>$/;"	function	line:205
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                    <div class="oder_bg">$/;"	function	line:208
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <div class="pic"><img src="..\/axiomtek\/images\/solution_p4.jpg"><\/div>$/;"	function	line:209
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <div class="renew_font">$/;"	function	line:210
+h	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <h3>Power and Energy<\/h3>$/;"	function	line:211
+ul	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <ul class="solution_height">$/;"	function	line:212
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Solar-Powered Solutions<\/li>$/;"	function	line:213
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Microgrids<\/li>$/;"	function	line:214
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Wind Power Automation<\/li>$/;"	function	line:215
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Power Utility<\/li>$/;"	function	line:216
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Substation Automation<\/li>$/;"	function	line:217
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Nuclear Power Plant<\/li>$/;"	function	line:218
+button	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <button type="button" class="btn btn-red">READ MORE<\/button>$/;"	function	line:220
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                    <div class="oder_bg">$/;"	function	line:223
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <div class="pic"><img src="..\/axiomtek\/images\/solution_p5.jpg"><\/div>$/;"	function	line:224
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <div class="renew_font">$/;"	function	line:225
+h	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <h3>Digital Signage<\/h3>$/;"	function	line:226
+ul	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <ul class="solution_height">$/;"	function	line:227
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Digital Education<\/li>$/;"	function	line:228
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>OPS Compliant Digital Signage Solutions<\/li>$/;"	function	line:229
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Digital Signage Solution<\/li>$/;"	function	line:230
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>e-Board Solution<\/li>$/;"	function	line:231
+button	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <button type="button" class="btn btn-red">READ MORE<\/button>$/;"	function	line:233
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                    <div class="oder_bg">$/;"	function	line:236
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <div class="pic"><img src="..\/axiomtek\/images\/solution_p6.jpg"><\/div>$/;"	function	line:237
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <div class="renew_font">$/;"	function	line:238
+h	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <h3>Gaming Solution<\/h3>$/;"	function	line:239
+ul	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <ul class="solution_height">$/;"	function	line:240
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Slot Machine<\/li>$/;"	function	line:241
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Management System<\/li>$/;"	function	line:242
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Multiplayer Table Game<\/li>$/;"	function	line:243
+button	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <button type="button" class="btn btn-red">READ MORE<\/button>$/;"	function	line:245
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                    <div class="oder_bg">$/;"	function	line:248
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <div class="pic"><img src="..\/axiomtek\/images\/solution_p7.jpg"><\/div>$/;"	function	line:249
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <div class="renew_font">$/;"	function	line:250
+h	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <h3>Kiosk and Self-service<\/h3>$/;"	function	line:251
+ul	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <ul class="solution_height">$/;"	function	line:252
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Infotainment<\/li>$/;"	function	line:253
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Smart Technology for POS and Commercial Display<\/li>$/;"	function	line:254
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Smart technology in airports, education and banks<\/li>$/;"	function	line:255
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Self-service Kiosks<\/li>$/;"	function	line:256
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Restaurant<\/li>$/;"	function	line:257
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Banking Kiosk<\/li>$/;"	function	line:258
+button	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <button type="button" class="btn btn-red">READ MORE<\/button>$/;"	function	line:260
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                    <div class="oder_bg">$/;"	function	line:263
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <div class="pic"><img src="..\/axiomtek\/images\/solution_p8.jpg"><\/div>$/;"	function	line:264
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <div class="renew_font">$/;"	function	line:265
+h	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <h3>Medical Solution<\/h3>$/;"	function	line:266
+ul	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <ul class="solution_height">$/;"	function	line:267
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Network Appliances of the Next Generation<\/li>$/;"	function	line:268
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Network Security Management<\/li>$/;"	function	line:269
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Unified Threat Management<\/li>$/;"	function	line:270
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Universal Port Management<\/li>$/;"	function	line:271
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Enclosure Management<\/li>$/;"	function	line:272
+button	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <button type="button" class="btn btn-red">READ MORE<\/button>$/;"	function	line:274
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                    <div class="oder_bg">$/;"	function	line:277
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <div class="pic"><img src="..\/axiomtek\/images\/solution_p9.jpg"><\/div>$/;"	function	line:278
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <div class="renew_font">$/;"	function	line:279
+h	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <h3>More Solutions<\/h3>$/;"	function	line:280
+ul	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <ul class="solution_height">$/;"	function	line:281
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Intelligent Medical Automation<\/li>$/;"	function	line:282
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Medical Robots<\/li>$/;"	function	line:283
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Dental Implant Technology<\/li>$/;"	function	line:284
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>DNA Sequencing<\/li>$/;"	function	line:285
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Mobile Stroke Treatment Units<\/li>$/;"	function	line:286
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Blood Testing Technology<\/li>$/;"	function	line:287
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Smart Healthcare<\/li>$/;"	function	line:288
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Health Evaluation Center<\/li>$/;"	function	line:289
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>eHealthcare<\/li>$/;"	function	line:290
+button	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <button type="button" class="btn btn-red">READ MORE<\/button>$/;"	function	line:292
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                    <div class="oder_bg">$/;"	function	line:295
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <div class="pic"><img src="..\/axiomtek\/images\/solution_p10.jpg"><\/div>$/;"	function	line:296
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <div class="renew_font">$/;"	function	line:297
+h	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <h3>More Solutions<\/h3>$/;"	function	line:298
+ul	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <ul class="css3_content">$/;"	function	line:299
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Broadcast Communication<\/li>$/;"	function	line:300
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <li>Portable Application<\/li>$/;"	function	line:301
+button	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <button type="button" class="btn btn-red">READ MORE<\/button>$/;"	function	line:303
+footer	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^    <footer>$/;"	function	line:313
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^        <div class="footer_bg">$/;"	function	line:314
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^            <div class="wrapper">$/;"	function	line:315
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                <div class="footer_box">$/;"	function	line:316
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                    <div class="box01">$/;"	function	line:317
+h	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <h3>Products<\/h3>$/;"	function	line:318
+ul	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <ul>$/;"	function	line:319
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">Boards & Modules<\/a><\/li>$/;"	function	line:320
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">Systems & Platforms<\/a><\/li>$/;"	function	line:321
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">Industrial Panel PCs<\/a><\/li>$/;"	function	line:322
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">IoT & M2M<\/a><\/li>$/;"	function	line:323
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                    <div class="box01">$/;"	function	line:326
+h	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <h3>Solutions<\/h3>$/;"	function	line:327
+ul	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <ul>$/;"	function	line:328
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">Industrial Automation<\/a><\/li>$/;"	function	line:329
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">Transportation<\/li>$/;"	function	line:330
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <li><a href="#">Internet of Things (IoT)<\/a><\/li>$/;"	function	line:331
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">Power and Energy<\/a><\/li>$/;"	function	line:332
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">Digital Signage<\/a><\/li>$/;"	function	line:333
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">Gaming Solution<\/a><\/li>$/;"	function	line:334
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">Kiosk and Self-service<\/a><\/li>$/;"	function	line:335
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">Network Security<\/a><\/li>$/;"	function	line:336
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">Medical Solution<\/a><\/li>$/;"	function	line:337
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">More Solutions<\/a><\/li>$/;"	function	line:338
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                    <div class="box01">$/;"	function	line:341
+h	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <h3>Support<\/h3>$/;"	function	line:342
+ul	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <ul>$/;"	function	line:343
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">Downloads<\/a><\/li>$/;"	function	line:344
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">Technical Support<\/a><\/li>$/;"	function	line:345
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">Technical FAQ<\/a><\/li>$/;"	function	line:346
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">eRMA Service<\/a><\/li>$/;"	function	line:347
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">Online RMA (USA)<\/a><\/li>$/;"	function	line:348
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">Partner Zone<\/a><\/li>$/;"	function	line:349
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                    <div class="box01">$/;"	function	line:352
+h	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <h3>What's New<\/h3>$/;"	function	line:353
+ul	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <ul>$/;"	function	line:354
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">New Products<\/a><\/li>$/;"	function	line:355
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">Press Releases<\/a><\/li>$/;"	function	line:356
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">eNewsletters<\/a><\/li>$/;"	function	line:357
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">Upcoming Events<\/a><\/li>$/;"	function	line:358
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">Promotions<\/a><\/li>$/;"	function	line:359
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">RSS<\/a><\/li>$/;"	function	line:360
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                    <div class="box01">$/;"	function	line:363
+h	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <h3>Resources<\/h3>$/;"	function	line:364
+ul	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <ul>$/;"	function	line:365
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">White Papers<\/a><\/li>$/;"	function	line:366
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">Application Story<\/a><\/li>$/;"	function	line:367
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">Online Catalogs<\/a><\/li>$/;"	function	line:368
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">Videos<\/a><\/li>$/;"	function	line:369
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">Axiomtek App<\/a><\/li>$/;"	function	line:370
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">Social Links<\/a><\/li>$/;"	function	line:371
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                    <div class="box01">$/;"	function	line:374
+h	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <h3>About Us<\/h3>$/;"	function	line:375
+ul	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <ul>$/;"	function	line:376
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">Company Profile<\/a><\/li>$/;"	function	line:377
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">Investor Relations<\/a><\/li>$/;"	function	line:378
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">Support and Service<\/a><\/li>$/;"	function	line:379
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">Product Lines<\/a><\/li>$/;"	function	line:380
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">Job Openings<\/a><\/li>$/;"	function	line:381
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">Worldwide Offices<\/a><\/li>$/;"	function	line:382
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                    <div class="box01">$/;"	function	line:385
+h	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <h3>Contact Us<\/h3>$/;"	function	line:386
+ul	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <ul>$/;"	function	line:387
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">Product Inquiry<\/a><\/li>$/;"	function	line:388
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">Worldwide Contacts<\/a><\/li>$/;"	function	line:389
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">Channel Partners<\/a><\/li>$/;"	function	line:390
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">Catalog Request<\/a><\/li>$/;"	function	line:391
+li	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <li><a href="#">Alliance Partners<\/a><\/li>$/;"	function	line:392
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                <div class="service_all">$/;"	function	line:396
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                    <div class="service">$/;"	function	line:397
+a	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <a href="#" class="footer_icon"><i class="mdi mdi-youtube-play"><\/i><\/a>$/;"	function	line:398
+a	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <a href="#" class="footer_icon"><i class="mdi mdi-facebook"><\/i><\/a>$/;"	function	line:399
+a	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <a href="#" class="footer_icon"><i class="mdi mdi-twitter"><\/i><\/a>$/;"	function	line:400
+a	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <a href="#" class="footer_icon"><i class="mdi mdi-google-plus"><\/i><\/a>$/;"	function	line:401
+a	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <a href="#" class="footer_icon"><i class="mdi mdi-linkedin"><\/i><\/a>$/;"	function	line:402
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                    <div class="service_email">$/;"	function	line:404
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <div class="footer_email">Receive the latest news<\/div>$/;"	function	line:405
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                        <div class="latest">$/;"	function	line:406
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <div class="font_mail"><input name="" type="text" \/><\/div>$/;"	function	line:407
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                            <div class="keyin">$/;"	function	line:408
+a	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                                <a href="#" class="latest_btn"><\/a>$/;"	function	line:409
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^        <div class="footer_s_bg">$/;"	function	line:416
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^            <div class="wrapper">$/;"	function	line:417
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                <div class="footer_bottom"><a href="#">Feedback<\/a><\/div>$/;"	function	line:418
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                <div class="footer_bottom"><a href="#">Sitemap<\/a><\/div>$/;"	function	line:419
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                <div class="footer_bottom"><a href="#">Privacy<\/a><\/div>$/;"	function	line:420
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                <div class="footer_region"><a href="#">Region [ Global \/ English ]<\/a><\/div>$/;"	function	line:421
+div	C:\Users\user\Desktop\axiomtek\solutions_04.html	/^                <div class="footer_middle">© 2017 Axiomtek Co., Ltd.<\/div>$/;"	function	line:422

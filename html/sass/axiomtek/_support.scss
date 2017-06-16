@@ -1,0 +1,112 @@
+.partnerzone_bg {
+    background-image: url("../images/partnerzone_02.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+}
+
+.partner_continer {
+    width: 1200px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.zone_bg {
+    background-color: rgba(0, 0, 0, 0.6);
+    width: 53%;
+    color: #fff;
+    border-radius: 5px;
+    padding:30px 50px;
+    float: left;
+    margin: 40px 0;
+
+    h2 {
+        margin-bottom: 20px;
+        font-size: 1.7em;
+    }
+
+    p {
+        color: #bdbdbd;
+        line-height: 1.5;
+    }
+}
+
+.zone_whitebg {
+    display: inline-table;
+    background-color: #fff;
+    width: 39%;
+    border-radius: 4px;
+    padding: 30px 50px;
+    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);
+    margin-bottom: 40px;
+    margin-top: 20px;
+    h1 {
+        color: $ax_red;
+    }
+}
+
+.table_download {
+    margin-bottom: 20px;
+
+}
+
+.download_font {
+    display: inline-block;
+    width: 20%;
+    vertical-align: top;
+}
+
+.download_select {
+    width: 70%;
+    display: inline-block;
+
+    select {
+        width: 60%;
+    }
+}
+
+.download_flobtn {
+    display: inline-block;
+}
+
+.table_feedback {
+    margin-bottom: 10px;
+}
+
+.feedback_font {
+    display: inline-block;
+    width: 10%;
+    vertical-align: top;
+}
+
+.feedback_select {
+    width: 70%;
+    display: inline-block;
+
+    select {
+        width: 60%;
+    }
+}
+
+.feedback_flobtn {
+    display: inline-block;
+}
+
+.feedback_w {
+    display: inline-block;
+    border: 1px solid #dadada;
+    height: 30px;
+    background-color: #fff;
+    width: 42%;
+
+    input {
+        height: 20px;
+        width: 70%;
+        background-color: #fff;
+    }
+}
+.required_font_right{
+    width: 100%;
+    margin-bottom: 20px;
+    text-align: right;
+}

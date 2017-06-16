@@ -1,0 +1,292 @@
+@include respond-cozy {}
+@include respond-compact {
+    .inside-container {
+        width: 1000px;
+    }
+
+    .product_bread {
+        width: 35%;
+    }
+
+    .relatednews {
+        .title {
+            .box {
+                .renew_font {
+                    p {
+                        width: 95%;
+                    }
+                }
+            }
+        }
+    }
+
+    .float_box2 {
+        .item_pic {
+            width: 360px;
+            height: 360px;
+
+            img {
+                width: 100%;
+            }
+        }
+    }
+
+    .font_article {
+        margin: 0 20px;
+    }
+
+    .product-wrapper {
+        margin: 40px 20px;
+    }
+
+    .downmenu_wrapper {
+        width: 1000px;
+    }
+
+    .motherboard_container {
+        .mtx_box_bg {
+            width: 23.9%;
+        }
+    }
+
+    .downmenu_wrapper {
+        width: 100%;
+
+        .product_downmenu {
+            top: -91px;
+            left: 69px;
+        }
+    }
+}
+@include respond-pad {
+    .font_article {
+        h1 {
+            font-size: 1.6em;
+        }
+
+        h2 {
+            // font-size: 1.3em;
+        }
+
+        h3 {
+            // font-size: 1em;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+    }
+
+    .product_sheet {
+        width: 100%;
+        height: auto;
+    }
+
+    .nav_icon {
+        display: block;
+        float: left;
+    }
+
+    .nav_fb {
+        .ga_icon {
+            display: none;
+        }
+    }
+
+    .fb_icon {
+        margin-top: 4px;
+    }
+
+    .inside-container {
+        width: 100%;
+    }
+
+    .relatednews {
+        .title {
+            width: 31%;
+
+            .box {
+                padding: 10px;
+
+                .renew_font {
+                    p {
+                        width: 95%;
+                    }
+                }
+            }
+        }
+    }
+
+    .product-wrapper {
+        .float_box {
+            width: 51%;
+            margin-right: 3%;
+        }
+
+        .float_box2 {
+            float: left;
+            width: 38%;
+        }
+    }
+
+    .feature_box {
+        width: 720px;
+        margin: 0 auto;
+
+        li {
+            margin-right: 30px;
+            font-size: 1.2em;
+        }
+    }
+
+    .downmenu_wrapper {
+        width: 100%;
+
+        .product_downmenu {
+            top: -111px;
+        }
+    }
+
+    .motherboard_container {
+        .mtx_box_bg {
+            width: 100%;
+        }
+    }
+
+    .bread_box {
+        margin: 20px 20px 0;
+
+        .to-crumbs {
+            display: block;
+
+            li {
+                font-size: 1em;
+            }
+        }
+    }
+
+    .downmenu_wrapper {
+        width: 100%;
+
+        .product_downmenu {
+            top: -91px;
+            left: 0;
+        }
+    }
+}
+@include respond-mobile {
+    .nav_icon {
+        display: block;
+        float: left;
+    }
+
+    .fb_icon {
+        margin-top: 4px;
+    }
+
+    .product-wrapper {
+        margin: 0 30px;
+
+        .float_box {
+            width: 100%;
+        }
+
+        .float_box2 {
+            width: 100%;
+        }
+
+        .item_pic {
+            width: 100%;
+            height: 100%;
+
+            img {
+                width: 100%;
+            }
+        }
+    }
+
+    .relatednews {
+        .title {
+            width: 100%;
+            margin-right: 0;
+
+            .box {
+                margin-bottom: 20px;
+                padding: 10px;
+
+                .renew_font {
+                    p {
+                        width: 95%;
+                    }
+                }
+            }
+        }
+    }
+
+    .feature_box {
+        width: 100%;
+
+        li {
+            width: 100%;
+        }
+
+        .none_bottom {
+            margin: 0 30px;
+        }
+
+        .acture {
+            margin-top: 40px;
+            background-color: $ax_red;
+            color: #fff;
+            padding: 10px 20px;
+
+            &:after {
+                content: url("../images/tran.png");
+                margin-left: 10px;
+            }
+
+            a {
+                color: #fff;
+
+                &:hover {
+                    color: #fff;
+                }
+            }
+        }
+
+        .hide_acture {
+            display: none;
+        }
+    }
+
+    .red_line {
+        display: none;
+    }
+
+    .downmenu_wrapper {
+        width: 100%;
+
+        .product_downmenu {
+            top: -132px;
+            left: 0;
+        }
+    }
+
+    .compare_btm {
+        width: 100%;
+        height: 118px;
+
+        button {
+            margin-bottom: 10px;
+            width: 100%;
+        }
+    }
+
+    .imb_eum {
+        width: 100%;
+    }
+
+    .down_sub {
+        width: 100%;
+    }
+}
