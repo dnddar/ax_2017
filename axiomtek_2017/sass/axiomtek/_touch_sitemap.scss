@@ -1,0 +1,44 @@
+@include respond-cozy {}
+@include respond-compact {
+    .sitemap_clearfix{
+        .sitemap_box{
+            width: 22%;
+        }
+        .please_box{
+            width: 30%;
+        }
+        .boards_box{
+            width: 40%;
+        }
+    }
+
+}
+@include respond-pad {
+    .sitemap_clearfix{
+        .sitemap_box{
+            width: 21%;
+        }
+        .please_box{
+            width: 28%;
+        }
+        .boards_box{
+            width: 30%;
+        }
+    }
+
+}
+@include respond-mobile {
+    .sitemap_clearfix{
+        .sitemap_box{
+            width: 100%;
+        }
+        .please_box{
+            width: 100%;
+        }
+        .boards_box {
+            width: 100%;
+
+        }
+
+    }
+}

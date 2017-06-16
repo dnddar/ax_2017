@@ -1,0 +1,45 @@
+.sitemap_clearfix {
+    .sitemap_box {
+        width: 23%;
+        display: inline-table;
+        margin-right: 20px;
+
+        &:nth-child(4) {
+            margin-right: 0;
+        }
+    }
+    .boards_box {
+        width: 30%;
+        display: inline-table;
+        padding-right: 10px;
+
+        &:nth-child(4) {
+            margin-right: 0;
+        }
+    }
+
+    .please_box {
+        width: 31%;
+        display: inline-table;
+        margin-right: 20px;
+
+        &:nth-child(4) {
+            margin-right: 0;
+        }
+    }
+
+    .sitemap_table {
+        li {
+            color: $ax_gray;
+            margin-bottom: 10px;
+        }
+
+        a {
+            color: $ax_gray;
+
+            &:hover {
+                color: $ax_red;
+            }
+        }
+    }
+}

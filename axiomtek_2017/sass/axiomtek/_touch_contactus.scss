@@ -1,0 +1,70 @@
+@include respond-cozy {}
+@include respond-compact {
+    .checkbox_sample {
+        li {
+            width: 30%;
+        }
+    }
+}
+@include respond-pad {
+    .video_item {
+        width: 23%;
+    }
+
+    .checkbox_sample {
+        li {
+            width: 33%;
+        }
+    }
+
+    .country_font {
+        // width: 33%;
+    }
+
+    .country_w {
+        width: 60%;
+    }
+
+    .country {
+        width: 20%;
+    }
+}
+@include respond-mobile {
+    .allian_logo {
+        float: left;
+        width: 100%;
+
+        img {
+            width: 100%;
+        }
+    }
+
+    .allian_fontbox {
+        float: left;
+        width: 100%;
+    }
+
+    .catalog_item {
+        width: 48%;
+        .pic {
+            width: 55%;
+            img {
+                width: 100%;
+            }
+        }
+    }
+
+    .video_item {
+        width: 100%;
+    }
+
+    .checkbox_sample {
+        li {
+            width: 100%;
+        }
+    }
+
+    .name {
+        width: 100%;
+    }
+}
