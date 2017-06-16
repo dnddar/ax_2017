@@ -1,0 +1,268 @@
+.inquirystyle {
+    border: 1px solid #dadada;
+    height: 30px;
+    background-color: #fff;
+
+    input {
+        height: 20px;
+        width: 70%;
+        background-color: #fff;
+    }
+}
+
+.country {
+    border: 1px solid #dadada;
+    height: 30px;
+    background-color: #fff;
+    width: 30%;
+    display: inline-block;
+
+    input {
+        height: 20px;
+        width: 90%;
+        background-color: #fff;
+    }
+}
+
+.country_font {
+    display: inline-block;
+    width: 22%;
+    font-size:12px;
+    font-weight: bolder;
+}
+
+.country_w {
+    border: 1px solid #dadada;
+    height: 30px;
+    background-color: #fff;
+    width: 75%;
+    display: inline-block;
+
+    input {
+        height: 20px;
+        width: 90%;
+        background-color: #fff;
+    }
+}
+
+.code_img {
+    display: inline-block;
+
+    i {
+        font-size: 2em;
+        color: $ax_gray;
+    }
+}
+
+.code_select {
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+.access_code {
+    border: 1px solid #dadada;
+    height: 30px;
+    background-color: #fff;
+    width: 17%;
+    display: inline-block;
+    margin-bottom: 10px;
+
+    input {
+        height: 20px;
+        width: 90%;
+        background-color: #fff;
+    }
+}
+
+.name_box {
+    border: 1px solid #dadada;
+    height: 30px;
+    background-color: #fff;
+
+    input {
+        height: 20px;
+        width: 70%;
+        background-color: #fff;
+    }
+}
+
+.checkbox_sample {
+    table {
+        vertical-align: middle;
+        font-size: 1.1em;
+    }
+
+    tr {
+        padding: 5px;
+    }
+
+    td {
+        padding: 5px;
+    }
+
+    li {
+        display: inline-block;
+        margin-right: 10px;
+        margin-bottom: 10px;
+        width: 25%;
+        font-size: 12px;
+
+        input {
+            margin-right: 10px;
+            zoom: 1.2;
+        }
+    }
+}
+
+.alliancepartners_bg {
+    background-color: #fff;
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 20px;
+    overflow: hidden;
+}
+
+.allian_logo {
+    float: left;
+    width: 39%;
+
+    img {
+        width: 100%;
+    }
+}
+
+.allian_fontbox {
+    float: left;
+    width: 60%;
+}
+
+.catalog_box {
+    box-sizing: border-box;
+}
+
+.catalog_item {
+    width: 23%;
+    margin-right: 1%;
+    display: inline-table;
+
+    &:nth-child(4n) {
+        margin-right: 0;
+    }
+
+    h5 {
+        color: $ax_gray;
+        line-height: 18px;
+    }
+
+    .pic {
+        width: 40%;
+        img {
+            width: 100%;
+        }
+    }
+}
+
+.video_item {
+    width: 24%;
+    margin-right: 1%;
+    display: inline-table;
+    // padding: 10px;
+    &:nth-child(4n) {
+        margin-right: 0;
+    }
+
+    h5 {
+        color: $ax_gray;
+        line-height: 18px;
+    }
+
+    .pic {
+        width: 100%;
+
+        img {
+            width: 100%;
+        }
+    }
+}
+
+.name {
+    display: inline-block;
+    width: 49%;
+    margin-right: 1%;
+    margin-bottom: 20px;
+
+    &:nth-child(2n) {
+        margin-right: 0;
+        font-size: 12px;
+    }
+}
+
+.regin_all {
+    li {
+        display: inline-block;
+        padding: 10px;
+        background-color: #ccc;
+        margin-bottom: 5px;
+    }
+
+    a {
+        color: $ax_gray;
+
+        &:hover {
+            color: $ax_red;
+        }
+    }
+
+    .red_re {
+        background-color: $ax_red;
+        color: #fff;
+    }
+}
+.product_inquiry{
+    background-color: #fff;
+    padding:5px 20px 10px 20px;
+    margin-bottom: 20px;
+}
+
+.contry_list {
+    margin-bottom: 10px;
+    color: $ax_gray;
+}
+.contry_inquiry{
+    display: inline-block;
+    margin-right: 10px;
+    vertical-align: middle;
+    input{
+        zoom:1.2;
+    }
+
+}
+.inquiry_hover{
+    background-color:#fff;
+    width: 350px;
+    position: absolute;
+    top:40px;
+    right:10%;
+    border-radius: 5px;
+    box-shadow:1px 1px 2px 2px rgba(0,0,0,0.2);
+}
+.inquiry_pic{
+    width: 150px;
+    height: 150px;
+    margin: 30px ;
+    display: inline-block;
+    border: 1px solid #ccc;
+    img{
+        width: 100%;
+    }
+}
+.inquiry_eebox{
+    display: inline-block;
+}
+.inquiry_text{
+    color: $ax_gray;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+.inquiry_btn{
+}

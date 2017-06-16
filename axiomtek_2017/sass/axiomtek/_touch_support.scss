@@ -1,0 +1,81 @@
+@include respond-cozy {}
+@include respond-compact {
+    .partner_continer{
+        width: 1000px;
+
+    }
+    .zone_bg{
+        width: 50%;
+    }
+    .zone_whitebg{
+        width: 48%;
+    }
+
+}
+@include respond-pad {
+    .partner_continer{
+        width: 90%;
+        height: auto;
+        margin: 0 auto;
+
+        p{
+        line-height:18px;
+        }
+    }
+    .zone_bg{
+        width: 53%;
+        padding:30px 30px;
+    }
+    .zone_whitebg{
+        width:40%;
+        padding:30px 30px;
+    }
+    .feedback_font{
+        width: 13%;
+    }
+
+}
+@include respond-mobile {
+    .download_font{
+        width: 100%;
+    }
+    .download_select{
+        width: 100%;
+        select{
+            width: 100%;
+        }
+    }
+    .download_flobtn{
+        button{
+            margin-top: 20px;
+            width: 150px;
+        }
+    }
+    .partner_continer{
+
+        p{
+        line-height:18px;
+        }
+    }
+    .zone_bg{
+        width: 100%;
+        margin: 0;
+        border-radius: 4px 4px 0 0;
+    }
+    .zone_whitebg{
+        width: 100%;
+        margin-top: 0;
+    }
+    .feedback_font{
+        width: 100%;
+    }
+    .feedback_w{
+        width: 60%;
+    }
+    .feedback_select{
+        width: 100%;
+        select{
+            width: 60%;
+        }
+    }
+}

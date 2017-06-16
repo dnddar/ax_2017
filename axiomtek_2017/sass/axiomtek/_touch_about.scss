@@ -1,0 +1,71 @@
+@include respond-cozy {}
+@include respond-compact {
+    .job_container {
+        width: 1000px;
+    }
+
+    .bk_wrapper {
+        width: 1000px;
+    }
+}
+@include respond-pad {
+    .job_container {
+        width: 100%;
+    }
+
+    .world_left {
+        width: 300px;
+    }
+
+    .world_right {
+        width: 40%;
+    }
+
+    .bk_wrapper {
+        width: 100%;
+        padding: 0 20px;
+    }
+}
+@include respond-mobile {
+    .world_left {
+        width: 40%;
+    }
+
+    .world_right {
+        width: 100%;
+    }
+
+    .job_bg {
+        overflow: hidden;
+    }
+
+    .job_btnbox {
+        width: 100%;
+    }
+
+    .job_font {
+        width: 100%;
+        float: left;
+        text-align: center;
+        margin-bottom: 10px;
+
+        &:after {
+            content: "";
+        }
+    }
+
+    .table_sample {
+        width: 100%;
+        overflow-x: scroll;
+        font-size: 12px;
+    }
+
+    .table_inquiry {
+        width: 100%;
+        overflow-x: scroll;
+    }
+
+    .table_name {
+        width: 100%;
+    }
+}

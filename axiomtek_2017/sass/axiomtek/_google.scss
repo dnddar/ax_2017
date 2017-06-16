@@ -1,0 +1,47 @@
+.gs-title {
+    font-size: 1.2em;
+    color: #3b5998;
+    text-decoration: underline;
+
+    a {
+        font-size: 1.2em;
+    }
+}
+
+.gs-bidi {
+    font-size: 1.2em;
+    color: $ax_gray;
+    line-height: 2;
+}
+
+.gs-result {
+    font-size: 1.2em;
+    color: #008000;
+}
+
+.google_box {
+    margin-bottom: 20px;
+}
+
+.gs_fontright {
+    float: right;
+    color: #999;
+}
+
+.page_item {
+    margin-bottom: 20px;
+
+    a {
+        text-align: center;
+        padding: 10px;
+    }
+
+    .one_bg {
+        background-color: #8c8c8c;
+        color: #fff;
+        width: 40px;
+        height: 40px;
+        margin-bottom: 10px;
+        display: inline-block;
+    }
+}

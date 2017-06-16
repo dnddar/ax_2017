@@ -1,0 +1,53 @@
+@include respond-cozy {}
+@include respond-compact {
+    .catalog_order{
+        .catalog_bg{
+            width: 31.5%;
+        }
+        .oder_nonebg{
+            width: 31.5%;
+        }
+    }
+}
+@include respond-pad {
+    .catalog_order{
+        .catalog_bg{
+            width: 48%;
+            &:nth-child(3n) {
+                margin-right:20px;
+            }
+            &:nth-child(2n) {
+                margin-right:0;
+            }
+        }
+        .oder_nonebg{
+            width: 31%;
+        }
+        .support_bg {
+            width: 30%;
+        }
+    }
+
+}
+@include respond-mobile {
+    .catalog_order {
+        .catalog_bg{
+            width: 100%;
+            &:nth-child(3n) {
+                margin-right:20px;
+            }
+            &:nth-child(2n) {
+                margin-right:0;
+            }
+        }
+        .oder_nonebg{
+            width: 100%;
+        }
+        .support_bg {
+            width: 40%;
+        }
+    }
+    .whitepaper{
+        width: 100%;
+    }
+}

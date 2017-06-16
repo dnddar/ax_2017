@@ -1,0 +1,136 @@
+.solutions_order {
+    .oder_bg {
+        display: inline-table;
+        background-color: #fff;
+        padding: 20px 20px 20px 20px;
+        width: 31.9%;
+        margin-right: 20px;
+        margin-bottom: 20px;
+
+        &:nth-child(3n) {
+            margin-right: 0;
+        }
+
+        h3 {
+            a {
+                color: #333;
+
+                &:hover {
+                    color: $ax_red;
+                    text-decoration: none;
+                }
+            }
+        }
+
+        p {
+            a {
+                color: $ax_gray;
+
+                &:hover {
+                    color: $ax_red;
+                }
+            }
+        }
+    }
+
+    .pic {
+        width: 100%;
+        text-align: center;
+
+        img {
+            width: 100%;
+        }
+    }
+
+    .oder_nonebg {
+        display: inline-table;
+        padding: 20px;
+        width: 31.9%;
+        margin-right: 20px;
+        margin-bottom: 20px;
+
+        &:nth-child(3n) {
+            margin-right: 0;
+        }
+    }
+}
+
+.solutions_main {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 2%;
+    width: 70%;
+}
+
+.solutions_side {
+    display: inline-block;
+    vertical-align: top;
+    width: 27%;
+}
+
+.related_bg {
+    background-color: #fff;
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.re_pic {
+    width: 100%;
+    vertical-align: top;
+    img {
+        width: 100%;
+    }
+}
+
+.re_font {
+    height: 40px;
+    overflow: hidden;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.seam_bg {
+    background-color: #fff;
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.seam_pic {
+    width: 44%;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20px;
+
+    img {
+        width: 100%;
+    }
+}
+
+.seam_font {
+    display: inline-block;
+    width: 52%;
+    vertical-align: top;
+}
+.sloution_center{
+    width: 40%;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 4px 4px 0 0;
+
+    a{
+        padding: 0 40px;
+        color: $ax_gray;
+        font-size: 1.2em;
+        &:hover{
+            color: $ax_gray;
+        }
+    }
+}
+.automation_font{
+    font-size: 14px;
+    font-weight: bolder;
+    background-color: #e0e0e0;
+    padding: 10px 20px;
+}

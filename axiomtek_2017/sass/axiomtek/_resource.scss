@@ -1,0 +1,147 @@
+.qrcold {
+    text-align: center;
+    width: 320px;
+    margin: 0 auto;
+
+    img {
+        width: 100%;
+    }
+
+    i {
+        font-size: 3em;
+        margin-right: 10px;
+        color: #b6b6b6;
+    }
+}
+
+.papers_font {
+    display: inline-table;
+    width: 100%;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border-radius: 3px;
+}
+.whitepaper{
+    width: 100%;
+    display: inline-block;
+    margin-right: 2%;
+}
+.catalog_order {
+
+    .catalog_bg {
+        // border: #c7c7c7 solid 1px;
+        display: inline-table;
+        width: 31.9%;
+        margin-right: 20px;
+        margin-bottom: 20px;
+        border-radius: 3px;
+
+        &:nth-child(3n) {
+            margin-right: 0;
+        }
+    }
+
+
+    .pic {
+        position: relative;
+        width: 100%;
+        text-align: center;
+
+        img {
+            width: 100%;
+        }
+    }
+    .ebtn{
+        position: absolute;
+        width: 100%;
+        background-color: rgba(0,0,0,.6);
+        padding: 10px 0;
+        color: #fff;
+        bottom:0;
+        font-size: 1.5em;
+        a {
+            color: #fff;
+
+            &:hover {
+                color: #fff;
+            }
+        }
+
+    }
+
+    .catalog_font {
+        padding: 20px;
+        width: 100%;
+        background-color: #fff;
+        // border-top: 1px solid #c7c7c7;
+
+        h3 {
+            font-size: 1.3em;
+            margin-top: 0;
+            font-weight: bolder;
+            height: 45px;
+            line-height: 25px;
+            overflow: hidden;
+        }
+        p{
+            line-height: 20px;
+            height: 40px;
+            overflow: hidden;
+        }
+
+
+    }
+
+    .oder_nonebg {
+        display: inline-table;
+        padding: 20px;
+        width: 31.9%;
+        margin-right: 20px;
+        margin-bottom: 20px;
+
+        &:nth-child(3n) {
+            margin-right: 0;
+        }
+    }
+}
+.support_bg {
+    display: inline-table;
+    width: 14%;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border-radius: 3px;
+    margin-bottom: 70px;
+}
+.supp{
+    width: 100%;
+    color: #333;
+    font-weight: bolder;
+    text-align: center;
+    font-size:16px;
+    a {
+        color: #333;
+        text-decoration: none;
+
+        &:hover {
+            color: $ax_red;
+            text-decoration: none;
+        }
+    }
+
+}
+.pdf_btn{
+
+    a{
+        color:$ax_gray;
+        cursor: pointer;
+        &:hover{
+            color:$ax_red;
+        }
+    }
+    i{
+        font-size: 1.4em;
+        margin-right: 10px;
+        color: $ax_red;
+    }
+
+}

@@ -1,0 +1,63 @@
+@include respond-cozy {}
+@include respond-compact {
+    .solutions_order{
+        .oder_bg{
+            width: 31.5%;
+        }
+        .oder_nonebg{
+            width: 31.5%;
+        }
+    }
+    .seam_pic{
+        width: 44%;
+    }
+    .seam_font{
+        width:50%;
+    }
+}
+@include respond-pad {
+
+    .solutions_order{
+        .oder_bg{
+            width: 31%;
+        }
+        .oder_nonebg{
+            width: 31%;
+        }
+    }
+    .seam_pic{
+        width: 100%;
+    }
+    .seam_font{
+        width:100%;
+    }
+    .re_font{
+        margin-top: 6px;
+    }
+
+
+}
+@include respond-mobile {
+    .related_bg {
+        width: 46%;
+        display:  inline-table;
+        margin-right: 10px;
+    }
+    .solutions_order{
+        .oder_bg{
+            width: 100%;
+        }
+        .oder_nonebg{
+            width: 100%;
+        }
+    }
+    .solutions_main{
+        width: 100%;
+    }
+    .solutions_side{
+        width:100%;
+    }
+    .re_font{
+        margin-top: 40px;
+    }
+}
